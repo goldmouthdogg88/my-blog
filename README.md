@@ -29,7 +29,7 @@ Some of the things are just tedious and having access to certain things would ha
     <div class="list-item-div">
     <li class="list-item"> - Having a list of jargon and terms</li>
     <p class="list-item-sub-text">the insturctor doesn't make a point to highlight the terms and verbage that come up in the course.</p>
-    <p>such as prop drilling</p>
+    <p>such as prop drilling, destructuring</p>
     </div>
 
 </ul>
