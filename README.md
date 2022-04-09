@@ -1,34 +1,4 @@
-<style>
-    * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-    }
-
-    li {
-        list-style-type: none;
-    }
-
-    .list-container {
-
-    }
-
-    .list-item {
-        color: #000 
-    }
-
-    .list-item-sub-text {
-        font-size: 70%; 
-        color: #555;
-    }
-
-    .list-item-div {
-    background-color: white; 
-    padding: 50px;
-    border-radius: 3px;
-    margin-bottom: 30px;
-    }
-</style>
+<link rel="stylesheet" type="text/css" href="./public/style.css">
 
 # my-blog
 
@@ -59,6 +29,7 @@ Some of the things are just tedious and having access to certain things would ha
     <div class="list-item-div">
     <li class="list-item"> - Having a list of jargon and terms</li>
     <p class="list-item-sub-text">the insturctor doesn't make a point to highlight the terms and verbage that come up in the course.</p>
+    <p>such as prop drilling</p>
     </div>
 
 </ul>
